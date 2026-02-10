@@ -10,4 +10,7 @@ In dieser Dokumentation habe ich all meine Schritte und Entwicklungen festgelegt
 
 ### Cloud Computing
 
+**Definition**
+Programme finden beim Cloud Computing remote statt. Bedeutet dass sie auf einem anderem Rechner (Rechenzentren) Stattfinden und weniger Leistung auf dem lokalen Rechner nutzen müssen.
+
 
