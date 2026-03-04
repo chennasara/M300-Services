@@ -161,7 +161,7 @@ Fehler:
 Error establishing a database connection
 
 Bild:
-![DB Fehler](images/Databasefehler.png)
+![DB Fehler](images/DataBaseFehler.png)
 
 Ursache:
 
