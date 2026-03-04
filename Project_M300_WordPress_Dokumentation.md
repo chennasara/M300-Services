@@ -101,8 +101,7 @@ docker ps
 ```
 
 Bild einfügen:
-images/Dockerps.png
-
+`images/Dockerps.png`
 ---
 
 # 6. Zugriff
@@ -124,7 +123,7 @@ cAdvisor zeigt:
 - Netzwerk
 
 Bild:
-images/cAdvisor.png
+`images/cadvisor2.png`
 
 ---
 
@@ -135,7 +134,7 @@ docker stats
 ```
 
 Bild:
-images/Ressourcen.png
+`images/cadvisor2.png`
 
 ---
 
@@ -151,7 +150,7 @@ docker compose up -d
 WordPress Beitrag bleibt erhalten.
 
 Bild:
-images/Wordpresstest.png
+`images/Wordpresstest.png`
 
 ---
 
@@ -162,7 +161,7 @@ Fehler:
 Error establishing a database connection
 
 Bild:
-images/Databasefehler.png
+`images/DataBaseFehler.png`
 
 Ursache:
 
