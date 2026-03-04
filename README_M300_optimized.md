@@ -151,7 +151,7 @@ curl http://localhost
 `http://127.0.0.1:8080`
 
 Bild einfügen:
-- `images/apache.png`
+- ![Apache Webseite](images/apache.png)
 
 ### 6.4 HTML-Titel anpassen
 
@@ -180,7 +180,7 @@ docker run hello-world
 ```
 
 Bild einfügen:
-- `images/docker-hello-world.png`
+- ![Docker Hello World Test](images/docker-hello-world.png)
 
 ---
 
@@ -233,11 +233,11 @@ docker run -d --name adminer --network lb3net -p 8082:8080 adminer
 
 Ghost:
 - `http://localhost:2368`
-- Bild: `images/ghost.png`
+- Bild: ![Adminer Datenbank](images/adminer.png)
 
 Adminer:
 - `http://localhost:8082`
-- Bild: `images/adminer.png`
+- Bild: ![Adminer Datenbank](images/adminer.png)
 
 Status:
 ```bash
@@ -301,7 +301,7 @@ Browser:
 - `http://localhost:8080`
 
 Bild einfügen:
-- `images/apache-docker.png`
+- ![Apache im Docker Container](images/apache-docker.png)
 
 ---
 
@@ -332,7 +332,7 @@ docker stats --no-stream
 ```
 
 Bild einfügen:
-- `images/docker-stats.png`
+- ![Docker Ressourcen Übersicht](images/docker-stats.png)
 
 ---
 
@@ -368,7 +368,7 @@ docker logs puh_container
 Hinweis: Die Meldung `AH00558` ist eine häufige Apache-Warnung (ServerName) und kein kritischer Fehler.
 
 Bild einfügen:
-- `images/docker-logs.png`
+- ![Docker Logs](images/docker-logs.png)
 
 ### 1.2 Monitoring
 
@@ -390,7 +390,7 @@ Browser:
 - `http://localhost:8081`
 
 Bild einfügen:
-- `images/cadvisor.png`
+- ![cAdvisor Monitoring](images/cadvisor.png)
 
 ---
 
@@ -469,7 +469,7 @@ docker logs jenkins
 ```
 
 Bild einfügen:
-- `images/jenkins-setup.png`
+- ![Jenkins Setup](images/jenkins-setup.png)
 
 ### 3.2 Blue Ocean Plugin Problem (Version)
 
